@@ -1972,7 +1972,7 @@ img {
     }
 
     .contact-info-block .section-title {
-        display: none; /* Скрываем заголовок "Контакты" на мобилке как на скриншоте */
+        display: none; 
     }
 
     .contact-items {
